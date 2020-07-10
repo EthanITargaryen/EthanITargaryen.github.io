@@ -3,157 +3,157 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ethantargaryen.github.io/tags/blog/</loc>
+    <loc>https://ethantargaryen.github.io/tags/blog/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ethantargaryen.github.io/categories/blog/</loc>
+    <loc>https://ethantargaryen.github.io/categories/blog/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ethantargaryen.github.io/categories/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="http://ethantargaryen.github.io/bn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://ethantargaryen.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://ethantargaryen.github.io/tags/hugo/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ethantargaryen.github.io/posts/reinwheel/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ethantargaryen.github.io/posts/</loc>
+    <loc>https://ethantargaryen.github.io/categories/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://ethantargaryen.github.io/bn/posts/"
+                href="https://ethantargaryen.github.io/bn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ethantargaryen.github.io/posts/"
+                href="https://ethantargaryen.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://ethantargaryen.github.io/</loc>
+    <loc>https://ethantargaryen.github.io/tags/hugo/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ethantargaryen.github.io/posts/reinwheel/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ethantargaryen.github.io/posts/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://ethantargaryen.github.io/bn/"
+                href="https://ethantargaryen.github.io/bn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ethantargaryen.github.io/"
+                href="https://ethantargaryen.github.io/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://ethantargaryen.github.io/tags/</loc>
+    <loc>https://ethantargaryen.github.io/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://ethantargaryen.github.io/bn/tags/"
+                href="https://ethantargaryen.github.io/bn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ethantargaryen.github.io/tags/"
+                href="https://ethantargaryen.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://ethantargaryen.github.io/about/</loc>
+    <loc>https://ethantargaryen.github.io/tags/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://ethantargaryen.github.io/bn/about/"
+                href="https://ethantargaryen.github.io/bn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ethantargaryen.github.io/about/"
+                href="https://ethantargaryen.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://ethantargaryen.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://ethantargaryen.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://ethantargaryen.github.io/edu/</loc>
+    <loc>https://ethantargaryen.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://ethantargaryen.github.io/bn/education/"
+                href="https://ethantargaryen.github.io/bn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ethantargaryen.github.io/edu/"
+                href="https://ethantargaryen.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>http://ethantargaryen.github.io/education/</loc>
+    <loc>https://ethantargaryen.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>http://ethantargaryen.github.io/snippets/first/</loc>
+    <loc>https://ethantargaryen.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>http://ethantargaryen.github.io/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>http://ethantargaryen.github.io/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>http://ethantargaryen.github.io/snippets/second/</loc>
-  </url>
-  
-  <url>
-    <loc>http://ethantargaryen.github.io/series/</loc>
+    <loc>https://ethantargaryen.github.io/edu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://ethantargaryen.github.io/bn/series/"
+                href="https://ethantargaryen.github.io/bn/education/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ethantargaryen.github.io/series/"
+                href="https://ethantargaryen.github.io/edu/"
                 />
   </url>
   
   <url>
-    <loc>http://ethantargaryen.github.io/snippets/</loc>
+    <loc>https://ethantargaryen.github.io/education/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ethantargaryen.github.io/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ethantargaryen.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ethantargaryen.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ethantargaryen.github.io/snippets/second/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ethantargaryen.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://ethantargaryen.github.io/bn/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ethantargaryen.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ethantargaryen.github.io/snippets/</loc>
   </url>
   
 </urlset>
