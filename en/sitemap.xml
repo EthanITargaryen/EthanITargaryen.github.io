@@ -3,157 +3,157 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/tags/blog/</loc>
+    <loc>http://ethantargaryen.github.io/tags/blog/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/blog/</loc>
+    <loc>http://ethantargaryen.github.io/categories/blog/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="http://www.example.com/bn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/hugo/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/posts/reinwheel/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/posts/</loc>
+    <loc>http://ethantargaryen.github.io/categories/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://www.example.com/bn/posts/"
+                href="http://ethantargaryen.github.io/bn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/"
+                href="http://ethantargaryen.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>http://ethantargaryen.github.io/tags/hugo/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ethantargaryen.github.io/posts/reinwheel/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ethantargaryen.github.io/posts/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://www.example.com/bn/"
+                href="http://ethantargaryen.github.io/bn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="http://ethantargaryen.github.io/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>http://ethantargaryen.github.io/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://www.example.com/bn/tags/"
+                href="http://ethantargaryen.github.io/bn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="http://ethantargaryen.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>http://ethantargaryen.github.io/tags/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://www.example.com/bn/about/"
+                href="http://ethantargaryen.github.io/bn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="http://ethantargaryen.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/edu/</loc>
+    <loc>http://ethantargaryen.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://www.example.com/bn/education/"
+                href="http://ethantargaryen.github.io/bn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/edu/"
+                href="http://ethantargaryen.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/education/</loc>
+    <loc>http://ethantargaryen.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/first/</loc>
+    <loc>http://ethantargaryen.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/snippets/second/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>http://ethantargaryen.github.io/edu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://www.example.com/bn/series/"
+                href="http://ethantargaryen.github.io/bn/education/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="http://ethantargaryen.github.io/edu/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/</loc>
+    <loc>http://ethantargaryen.github.io/education/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ethantargaryen.github.io/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ethantargaryen.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ethantargaryen.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ethantargaryen.github.io/snippets/second/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ethantargaryen.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="http://ethantargaryen.github.io/bn/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ethantargaryen.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ethantargaryen.github.io/snippets/</loc>
   </url>
   
 </urlset>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sheikh Azizul Hakim</title>
-    <link>http://www.example.com/</link>
+    <link>http://ethantargaryen.github.io/</link>
     <description>Recent content on Sheikh Azizul Hakim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ethantargaryen.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>On Reinventing the Wheels on Shoulder of Giants</title>
-      <link>http://www.example.com/posts/reinwheel/</link>
+      <link>http://ethantargaryen.github.io/posts/reinwheel/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/reinwheel/</guid>
+      <guid>http://ethantargaryen.github.io/posts/reinwheel/</guid>
       <description>Hence, I am making my personal portfolio, with almost nothing to showcase. Years ago, in high school, I thought myself a great deal of a writer. Actually, the things I wrote then still scares me. Form is temporary, class is permanent, they say. I am getting narcissistic, but that&amp;rsquo;s how I view my impressive past.
 I&amp;rsquo;d been an attentive science student in my secondary and higher secondary levels. We always do science on &amp;ldquo;shoulder of giants&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>http://www.example.com/about/</link>
+      <link>http://ethantargaryen.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>http://ethantargaryen.github.io/about/</guid>
       <description>Peace be upon you. All praises belong to God, the Majestic, the Sublime.
 I am Sheikh Azizul Hakim, currently persuing a CS undergrad degree in BUET.
 I am passionate about a research oriented career in theoretical computer science, with a focus in bioinformatics. What I know about them is a droplet, what people know is a gallon perhaps, and what we do not know is greater than the Pacific.
@@ -35,10 +35,10 @@ Apart from my CS academics, I love to read about philosophy, jurisprudence, theo
     
     <item>
       <title>Contact</title>
-      <link>http://www.example.com/contact/</link>
+      <link>http://ethantargaryen.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/contact/</guid>
+      <guid>http://ethantargaryen.github.io/contact/</guid>
       <description>Email me at skazizul55@gmail.com.
 You may follow me at Twitter or Facebook.
 My Github account may be accessed here.
@@ -47,19 +47,19 @@ I promise, none of the social media links would be impressive.</description>
     
     <item>
       <title>Contato</title>
-      <link>http://www.example.com/contact/</link>
+      <link>http://ethantargaryen.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/contact/</guid>
+      <guid>http://ethantargaryen.github.io/contact/</guid>
       <description>Me siga em @joaoninguem.</description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>http://www.example.com/edu/</link>
+      <link>http://ethantargaryen.github.io/edu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/edu/</guid>
+      <guid>http://ethantargaryen.github.io/edu/</guid>
       <description>Currently Persuing: B. Sc. (Engg) in Computer Science and Engineering Bangladesh University of Engineering and Technology
 Level/Term: 2/II
 Previous Background: Higher Secondary Certificate Examination Notre Dame College GPA: 5.00/5.00
@@ -68,30 +68,30 @@ Secondary School Certificate Examination Ideal School and College GPA: 5.00/5.00
     
     <item>
       <title>Education</title>
-      <link>http://www.example.com/education/</link>
+      <link>http://ethantargaryen.github.io/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/education/</guid>
+      <guid>http://ethantargaryen.github.io/education/</guid>
       <description>Currently Persuing:
 B. Sc. (Engg) in Computer Science and Engineering Bangladesh University of Engineering and Technology Level/Term: 2/II CGPA: 4.00</description>
     </item>
     
     <item>
       <title>First snippet</title>
-      <link>http://www.example.com/snippets/first/</link>
+      <link>http://ethantargaryen.github.io/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/snippets/first/</guid>
+      <guid>http://ethantargaryen.github.io/snippets/first/</guid>
       <description>This content is in snippets/first/index.md
 pwd </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://www.example.com/projects/</link>
+      <link>http://ethantargaryen.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/</guid>
+      <guid>http://ethantargaryen.github.io/projects/</guid>
       <description>Academic Projects: Game of Pawns
 A chess game, implemented in structured programming paradigm using C. A graphics library iGraphics was used to facilitate the display.
 Repository
@@ -102,19 +102,19 @@ Repository</description>
     
     <item>
       <title>Projetos</title>
-      <link>http://www.example.com/projects/</link>
+      <link>http://ethantargaryen.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/</guid>
+      <guid>http://ethantargaryen.github.io/projects/</guid>
       <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     
     <item>
       <title>Second snippet</title>
-      <link>http://www.example.com/snippets/second/</link>
+      <link>http://ethantargaryen.github.io/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/snippets/second/</guid>
+      <guid>http://ethantargaryen.github.io/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
     </item>
