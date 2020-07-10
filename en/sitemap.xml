@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/tags/blog/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/categories/blog/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/categories/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://ethanitargaryeb.github.io/bn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ethanitargaryeb.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/tags/hugo/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/posts/reinwheel/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/posts/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://ethanitargaryeb.github.io/bn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ethanitargaryeb.github.io/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://ethanitargaryeb.github.io/bn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ethanitargaryeb.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/tags/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://ethanitargaryeb.github.io/bn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ethanitargaryeb.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://ethanitargaryeb.github.io/bn/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ethanitargaryeb.github.io/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/edu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://ethanitargaryeb.github.io/bn/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ethanitargaryeb.github.io/edu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/education/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/snippets/second/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://ethanitargaryeb.github.io/bn/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ethanitargaryeb.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ethanitargaryeb.github.io/snippets/</loc>
+  </url>
+  
+</urlset>
