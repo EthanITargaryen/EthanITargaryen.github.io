@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on শেখ আজিজুল হাকিম</title>
+    <link>http://www.example.com/bn/tags/</link>
+    <description>Recent content in Tags on শেখ আজিজুল হাকিম</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/bn/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ভ্রমণ</title>
+      <link>http://www.example.com/bn/tags/%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/bn/tags/%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>সিএসই &#39;১৭</title>
+      <link>http://www.example.com/bn/tags/%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%87-%E0%A7%A7%E0%A7%AD/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/bn/tags/%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%87-%E0%A7%A7%E0%A7%AD/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
