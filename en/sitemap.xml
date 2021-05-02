@@ -3,157 +3,157 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ethanitargaryen.github.io/tags/blog/</loc>
+    <loc>https://skhakim.github.io/tags/blog/</loc>
     <lastmod>2020-07-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ethanitargaryen.github.io/categories/blog/</loc>
+    <loc>https://skhakim.github.io/categories/blog/</loc>
     <lastmod>2020-07-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ethanitargaryen.github.io/categories/</loc>
-    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://ethanitargaryen.github.io/bn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ethanitargaryen.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ethanitargaryen.github.io/tags/hugo/</loc>
-    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ethanitargaryen.github.io/posts/reinwheel_/</loc>
-    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ethanitargaryen.github.io/posts/</loc>
+    <loc>https://skhakim.github.io/categories/</loc>
     <lastmod>2020-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://ethanitargaryen.github.io/bn/posts/"
+                href="https://skhakim.github.io/bn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ethanitargaryen.github.io/posts/"
+                href="https://skhakim.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://ethanitargaryen.github.io/</loc>
+    <loc>https://skhakim.github.io/tags/hugo/</loc>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skhakim.github.io/posts/reinwheel_/</loc>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skhakim.github.io/posts/</loc>
     <lastmod>2020-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://ethanitargaryen.github.io/bn/"
+                href="https://skhakim.github.io/bn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ethanitargaryen.github.io/"
+                href="https://skhakim.github.io/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://ethanitargaryen.github.io/tags/</loc>
+    <loc>https://skhakim.github.io/</loc>
     <lastmod>2020-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://ethanitargaryen.github.io/bn/tags/"
+                href="https://skhakim.github.io/bn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ethanitargaryen.github.io/tags/"
+                href="https://skhakim.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://ethanitargaryen.github.io/about/</loc>
+    <loc>https://skhakim.github.io/tags/</loc>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://ethanitargaryen.github.io/bn/about/"
+                href="https://skhakim.github.io/bn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ethanitargaryen.github.io/about/"
+                href="https://skhakim.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://ethanitargaryen.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ethanitargaryen.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ethanitargaryen.github.io/edu/</loc>
+    <loc>https://skhakim.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://ethanitargaryen.github.io/bn/education/"
+                href="https://skhakim.github.io/bn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ethanitargaryen.github.io/edu/"
+                href="https://skhakim.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>https://ethanitargaryen.github.io/education/</loc>
+    <loc>https://skhakim.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>https://ethanitargaryen.github.io/snippets/first/</loc>
+    <loc>https://skhakim.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>https://ethanitargaryen.github.io/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ethanitargaryen.github.io/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ethanitargaryen.github.io/snippets/second/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ethanitargaryen.github.io/series/</loc>
+    <loc>https://skhakim.github.io/edu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://ethanitargaryen.github.io/bn/series/"
+                href="https://skhakim.github.io/bn/education/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ethanitargaryen.github.io/series/"
+                href="https://skhakim.github.io/edu/"
                 />
   </url>
   
   <url>
-    <loc>https://ethanitargaryen.github.io/snippets/</loc>
+    <loc>https://skhakim.github.io/education/</loc>
+  </url>
+  
+  <url>
+    <loc>https://skhakim.github.io/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>https://skhakim.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://skhakim.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://skhakim.github.io/snippets/second/</loc>
+  </url>
+  
+  <url>
+    <loc>https://skhakim.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://skhakim.github.io/bn/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://skhakim.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://skhakim.github.io/snippets/</loc>
   </url>
   
 </urlset>
